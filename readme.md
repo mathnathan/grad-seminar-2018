@@ -1,2 +1,2 @@
 # Hello Eitan!
-by Eitan Lees
+by Eitan Lees and Nathan Crock
